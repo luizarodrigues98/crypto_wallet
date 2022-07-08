@@ -2,7 +2,7 @@ en:
   actual_locale: 'English (International)'
   welcome: 'Welcome!!'
   messages:
-    welcome: 'This is Crypto Wallet, an app than you can register and keep up with your cryptocoins'
+    welcome: 'This is Crypto Wallet, an app that you can register and keep up with your cryptocoins'
     menu: 'To start, choose an option below:'
   hello: 'Hello world'
   coins:
@@ -21,4 +21,5 @@ en:
     mining_type: "Editing Mining Type"
   showing:
     coin: "Showing Coin"
-    mining_type: "Showing Mining Type"  
+    mining_type: "Showing Mining Type"
+  home: "Home"   
